@@ -1,5 +1,6 @@
 # GoogleEarthEngineJs
 Javascript Earth Engine Scripts
+Have a look at useful scripts for more .js scripts for GEE
 
 Learn more about the animation in this long blog post
 http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/
