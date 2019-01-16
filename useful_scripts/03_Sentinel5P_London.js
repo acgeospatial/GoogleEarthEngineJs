@@ -1,4 +1,5 @@
 // You will need to import a London Shapefile and call it London_shp for this script to work
+// blog here http://www.acgeospatial.co.uk/gee-sentinel-5p-fusion-tables/
 Map.centerObject(London_shp)
 Map.addLayer (London_shp)
 
